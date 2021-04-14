@@ -1,0 +1,55 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.meni ul{
+  list-style: none;
+  background-position: right;
+  float: right;
+  padding: 30px 20px;
+}
+.meni ul li{
+  background-color: transparent;
+  border: 1px solid red;
+  width: 100px;
+  height: 35px;
+  text-align: center;
+  line-height: 35px;
+  float: left;
+  position: relative;
+  border-radius: 8px;
+}
+.meni ul li a{
+  text-decoration: none;
+  text-transform: none;
+  color: yellow;
+  display: block;
+  transition: 0.6s ease;
+}
+.meni ul li a:hover{
+  background-color: green;
+  border-radius: 8px;
+}
+.meni ul ul{
+  position: absolute;
+  display: none;
+}
+.meni ul li a:hover > ul{
+  display: block;
+}
+.meni ul ul ul{
+  margin-left: 100px;
+  top: 0;
+}
+.logo{
+  float: left;
+  width: 400px;
+  padding: 15px 20px;
+  position: absolute;
+  color: yellow;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+.main{
+  max-width: 1200px;
+}

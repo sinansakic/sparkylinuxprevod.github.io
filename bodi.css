@@ -1,0 +1,53 @@
+body{
+  background-image: url('index.jpeg');
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  text-decoration: none;
+  text-shadow: none;
+  text-transform: none;
+  text-align:  justify;
+  font-size: 12px;
+  font-variant: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  font-stretch: normal;
+  font-weight: normal;
+  color: yellow;
+}
+li.a {
+  list-style-type: circle;
+  margin-left: 2cm;
+  color: green;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-shadow: normal;
+  text-transform: none;
+  text-decoration: none;
+  white-space: normal;
+  user-select: auto;
+  unicode-bidi: normal;
+  text-align: justify;
+  padding-right: 5mm;
+  padding-top: 5mm;
+}
+li.b{
+  list-style-type: square;
+  margin-left: 3cm;
+  color: green;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-shadow: normal;
+  text-transform: none;
+  text-decoration: none;
+  white-space: normal;
+  user-select: auto;
+  unicode-bidi: normal;
+  text-align: justify;
+  padding-right: 5mm;
+  padding-top: 5mm;
+}

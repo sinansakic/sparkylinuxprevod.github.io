@@ -1,0 +1,45 @@
+.omot{
+  background-color: white;
+  background-position: center;
+  border-radius: 8px;
+  width: 800px;
+  position: relative;
+  margin: auto;
+  margin-top: 20px;
+  padding: 1px;
+  color: yellow;
+  font-size: 16px;
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  opacity: 0.8;
+  color: yellow;
+  text-decoration: none;
+  text-align:  justify;
+  white-space: normal;
+  user-select: auto;
+  unicode-bidi: normal;
+  display: inline-block;
+  }
+h1{
+  padding-top: 1.5cm;
+  padding-bottom: 1.5cm;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  font-style: normal;
+  text-indent: normal;
+  text-shadow: normal;
+  text-transform: none;
+  text-decoration: none;
+  white-space: normal;
+  user-select: auto;
+  unicode-bidi: normal;
+  color: green;
+  text-align: center;
+}
+a{
+  color: #1e73be;
+  background-color: transparent;
+}
